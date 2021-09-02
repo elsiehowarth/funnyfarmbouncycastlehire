@@ -1,0 +1,187 @@
+{
+  "popular": [
+    {
+      "name": "Yellow Party Time Castle",
+      "size": "12ft (3.7m) x 15ft (4.6m)",
+      "price": "£70.00",
+      "image": "yellow-party-time-castle.jpg"
+    },
+    {
+      "name": "Blue Party Time Castle",
+      "size": "12ft (3.7m) x 15ft (4.6m)",
+      "price": "£70.00",
+      "image": "blue-party-time-castle.jpg"
+    },
+    {
+      "name": "Arch Shape Balloon Castle",
+      "size": "9ft (2.7m) x 11ft (3.4m)",
+      "price": "£65.00",
+      "image": "arch-shape-balloon-castle.jpg"
+    },
+    {
+      "name": "Jungle Castle",
+      "size": "12ft (3.7m) x 12ft (3.7m)",
+      "price": "£65.00",
+      "image": "jungle-castle.jpg"
+    }
+  ],
+  "childcastles": [
+    {
+      "name": "Sunshine Castle",
+      "size": "13ft x 15ft",
+      "price": "£70.00",
+      "image": "sunshine-castle.jpg"
+    },
+    {
+      "name": "Yellow Party Time Castle",
+      "size": "12ft (3.7m) x 15ft (4.6m)",
+      "price": "£70.00",
+      "image": "yellow-party-time-castle.jpg"
+    },
+    {
+      "name": "Blue Party Time Castle",
+      "size": "12ft (3.7m) x 15ft (4.6m)",
+      "price": "£70.00",
+      "image": "blue-party-time-castle.jpg"
+    },
+    {
+      "name": "Arch Shape Balloon Castle",
+      "size": "9ft (2.7m) x 11ft (3.4m)",
+      "price": "£65.00",
+      "image": "arch-shape-balloon-castle.jpg"
+    },
+    {
+      "name": "Jungle Castle",
+      "size": "12ft (3.7m) x 12ft (3.7m)",
+      "price": "£65.00",
+      "image": "jungle-castle.jpg"
+    },
+    {
+      "name": "Baby Castle",
+      "size": "7ft (2.1m) x 7ft (2.1m)",
+      "price": "£50.00",
+      "image": "baby-castle.jpg"
+    },
+    {
+      "name": "Circus Castle",
+      "size": "10ft (3.1m) x15ft (4.6m)",
+      "price": "£70.00",
+      "image": "circus-castle.jpg"
+    },
+    {
+      "name": "Tiger Castle",
+      "size": "8ft (2.4m) x 8ft (2.4m)",
+      "price": "£60.00",
+      "image": "tiger-castle.jpg"
+    }
+  ],
+  "castleslide": [
+    {
+      "name": "Dolphin Slide",
+      "size": "6ft (1.9m) to top of Slide",
+      "price": "£65.00",
+      "image": "dolphin-slide.jpg"
+    },
+    {
+      "name": "Front Slide Panda Castle",
+      "size": "12ft (3.7m) x 17ft (5.2m)",
+      "price": "£75.00",
+      "image": "front-slide-panda-castle.jpg"
+    },
+    {
+      "name": "Balloon Velcro Side Slide",
+      "size": "17ft (5.2m) x 15ft (4.6m)",
+      "price": "£75.00",
+      "image": "balloon-velcro-side-slide.jpg"
+    },
+    {
+      "name": "Princess Velcro Side Slide",
+      "size": "17ft (5.2m) x 15ft (4.6m)",
+      "price": "£75.00",
+      "image": "princess-velcro-side-slide.jpg"
+    },
+    {
+      "name": "Mickey Mouse Velcro Side Slide",
+      "size": "17ft (5.2m) x 15ft (4.6m)",
+      "price": "£75.00",
+      "image": "mickey-mouse-velcro-side-slide.jpg"
+    },
+    {
+      "name": "Superhero Velcro Side Slide",
+      "size": "17ft (5.2m) x 15ft (4.6m)",
+      "price": "£75.00",
+      "image": "superhero-velcro-side-slide.jpg"
+    },
+    {
+      "name": "Frozen Velcro Side Slide",
+      "size": "17ft (5.2m) x 15ft (4.6m)",
+      "price": "£75.00",
+      "image": "frozen-velcro-side-slide.jpg"
+    },
+    {
+      "name": "Minion Velcro Side Slide",
+      "size": "17ft (5.2m) x 15ft (4.6m)",
+      "price": "£75.00",
+      "image": "minion-velcro-side-slide.jpg"
+    }
+  ],
+  "gladiatorandsumos": [
+    {
+      "name": "Gladiator",
+      "size": "20ft (6.1m) x 18ft (5.5m)",
+      "price": "£75.00",
+      "image": "gladiator.jpg"
+    },
+    {
+      "name": "Childrens Sumo Suits",
+      "size": "12ft (3.7m) x 12ft (3.7m)",
+      "price": "£65.00",
+      "image": "childrens-sumo-suits.jpg"
+    },
+    {
+      "name": "Adult Sumo Suits",
+      "size": "12ft (3.7m) x 12ft (3.7m)",
+      "price": "£65.00",
+      "image": "adult-sumo-suits.jpg"
+    }
+  ],
+  "giantgames": [
+    {
+      "name": "8 Didi Cars",
+      "size": "£20.00 Extra with any Bouncy Castle booking ",
+      "image": "6-didi-cars.jpg"
+    },
+    {
+      "name": "3 Small Animals",
+      "size": "£10.00 Extra with any Bouncy Castle booking",
+      "image": "3-small-animals.jpg"
+    },
+    {
+      "name": "Giant Jenga",
+      "size": "£10.00 Extra with any Bouncy Castle booking",
+      "image": "giant-jenga.jpg"
+    },
+    {
+      "name": "Giant Connect 4",
+      "size": "£10.00 Extra with any Bouncy Castle booking",
+      "image": "giant-connect-4.jpg"
+    },
+    {
+      "name": "3 Space Hoppers",
+      "size": "£10.00 Extra with any Bouncy Castle booking",
+      "image": "3-space-hoppers.jpg"
+    }
+  ],
+  "softplay": [
+    {
+      "name": "Soft Play with Arch Shaped Balloon Castle",
+      "price": "£160.00",
+      "image": "softplay-with-castle.jpeg"
+    },
+    {
+      "name": "Soft Play Only",
+      "price": "£120.00",
+      "image": "soft-play.jpeg"
+    }
+  ]
+}

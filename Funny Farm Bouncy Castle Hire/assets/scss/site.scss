@@ -1,0 +1,57 @@
+/* Site SCSS */
+
+/* -------------------------
+FUNCTIONS VARIABLES
+----------------------------*/
+
+@function em($pixels, $content: 16px) {
+	@return ($pixels / $content) * 1em;
+}
+
+/* -------------------------
+VARIABLES
+----------------------------*/
+$bold: 700;
+$semi-bold: 600;
+$regular: 400;
+$light: 300;
+$font: 'Open Sans', sans-serif;
+$font-awesome: 'Font Awesome 5 Free';
+$style-normal: normal;
+$icon-bold: 900;
+
+$media-xs:500px;
+$media-sml:768px;
+$media-med-sml:1000px;
+$media-med:1250px;
+$media-lrg:1500px;
+
+
+$t-12: em(12px);
+$t-14: em(14px);
+$t-16: em(16px);
+$t-18: em(18px);
+$t-20: em(20px);
+$t-22: em(22px);
+$t-subheader: em(26px);
+$t-header: em(30px);
+$t-36: em(36px);
+$t-40: em(40px);
+$t-42: em(42px);
+$t-60: em(60px);
+$t-icon:em(50px);
+
+$white: #ffffff;
+$grey: #f5f5f5;
+$black: #000000;
+$orange: #f46f22;
+$blue: #25a8f2;
+
+$fade: all ease-in-out 0.3s;
+
+@import "header";
+@import "general";
+@import "menu";
+@import "banner";
+@import "innerpage";
+@import "footer";

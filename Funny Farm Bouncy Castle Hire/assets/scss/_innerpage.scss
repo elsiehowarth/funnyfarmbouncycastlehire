@@ -1,0 +1,89 @@
+/*
+======================================================================
+                              HEADER
+======================================================================
+*/
+#main{
+    .inner-padding {
+        padding: 30px 15px !important;
+    }
+    .inner-padding h1{
+        margin: 0 0 20px 0;
+    }
+
+    .inner-padding .item-grid{
+        margin: 30px 0;
+    }
+    .most-popular h2{
+        background-color: #25a8f2;
+        padding: 20px 0;
+        margin: 0;
+        color: white;
+    }
+
+    .item-grid {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .item-grid .item {
+        flex-basis: 100%;
+        margin-bottom: 2%;
+        background-color: #f5f5f5;
+        -webkit-box-shadow: 0 2px 3px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+        -moz-box-shadow:    0 2px 3px #ccc;  /* Firefox 3.5 - 3.6 */
+        box-shadow:         0 2px 3px #ccc;
+    }
+
+    .item-grid .item img{
+        width: 100%;
+    }
+
+    .item-grid .item .item-content {
+        padding: 10px;
+    }
+
+    .item-grid .item .item-content h3{
+        margin-top: 0;
+        font-size: 18px;
+        font-weight: bold;
+        min-height: 50px;
+    }
+
+    .item-grid .item .item-content .price {
+        font-weight: bold !important;
+        color: #f46f22;
+    }
+
+
+    @media (min-width: 500px) {
+        .item-grid .item {
+            flex-basis: 49%;
+            margin-left: 2%;
+            margin-bottom: 2%;
+        }
+
+        .item-grid .item:nth-child(2n + 1) {
+            margin-left: 0;
+        }
+    }
+
+    @media (min-width: 900px) {
+        .most-popular .item-grid .item {
+            margin-bottom: 0;
+        }
+        .item-grid .item {
+            flex-basis: 22%;
+            margin-left: 4%;
+            margin-bottom: 4%;
+        }
+        .item-grid .item:nth-child(2n + 1) {
+            margin-left: 4%;
+        }
+        .item-grid .item:nth-child(4n + 1) {
+            margin-left: 0;
+        }
+    }
+}
